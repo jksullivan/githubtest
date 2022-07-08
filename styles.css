@@ -3,5 +3,10 @@ body {
 }
 
 h1{
-    background-color: purple;
+    font: weight 300px;
+}
+
+h5 {
+    color: #eee;
+    font-weight: 100;
 }
